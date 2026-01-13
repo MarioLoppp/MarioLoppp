@@ -1,4 +1,4 @@
-[![malopez-'s 42 stats](https://badge.mediaplus.ma/blue/malopez-)](https://github.com/oakoudad/badge42)
+[![malopez-'s 42 stats](https://badge.mediaplus.ma/levi/malopez-)](https://github.com/oakoudad/badge42)
 
 # 👨‍💻 [Tu Nombre] - Curriculum Vitae
 
