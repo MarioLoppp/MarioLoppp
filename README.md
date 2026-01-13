@@ -1,3 +1,5 @@
+[![malopez-'s 42 stats](https://badge.mediaplus.ma/blue/malopez-)](https://github.com/oakoudad/badge42)
+
 # 👨‍💻 [Tu Nombre] - Curriculum Vitae
 
 ¡Hola! Soy [Tu Nombre], un [tu profesión o rol] apasionado por [algo que te apasione, como "desarrollar soluciones innovadoras", "resolver problemas complejos", etc.].
